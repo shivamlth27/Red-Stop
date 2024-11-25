@@ -48,7 +48,11 @@ pip install opencv-python pytesseract ultralytics roboflow
 - Trained on custom Roboflow dataset
 - 80 epochs of training
 - Image size: 640x640
-- Confusion matrix and loss graphs included
+  ## Confusion Matrix
+  ![output1](https://github.com/user-attachments/assets/1acc473c-c86b-4729-83f6-c59847f9db19)
+  ## 🚦 Training and Validation Loss
+  ![output](https://github.com/user-attachments/assets/63c3f60c-e708-426c-8fd6-c7be41eee393)
+
 
 ## 🔍 Key Components
 - Custom YOLOv8 traffic light detection
