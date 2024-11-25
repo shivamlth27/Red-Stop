@@ -66,6 +66,8 @@ pip install opencv-python pytesseract ultralytics roboflow
 - CUDA-compatible environment
 
 ## 👥 Contributors
-- [Shivam](https://github.com/Ayush-mishra-0-0/cs550)
+- [G Sai Sudarshan Rao]()
+- [K R Eashwar Sai]()
+- [Shivam](https://github.com/Ayush-mishra-0-0/cs550) - 12241710
 - 
 Team KERAS - DS510: AI/ML Project
