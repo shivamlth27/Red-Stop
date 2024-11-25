@@ -67,7 +67,6 @@ pip install opencv-python pytesseract ultralytics roboflow
 
 ## 👥 Contributors
 - [G Sai Sudarshan Rao]()
-- [K R Eashwar Sai]()
+- [K R Eashwar Sai]() - 12240730
 - [Shivam](https://github.com/Ayush-mishra-0-0/cs550) - 12241710
-- 
 Team KERAS - DS510: AI/ML Project
