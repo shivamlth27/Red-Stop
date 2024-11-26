@@ -2,6 +2,8 @@ https://github.com/user-attachments/assets/3ef0708b-6b36-4c22-9bec-485113d9660b
 # Red-Stop
 ## 🚦 Traffic Monitoring and Detection System
 
+Demo video link - [https://drive.google.com/file/d/1iV58kIbDe0LsI-tosZa5eeSxl3uShlwL/view?usp=sharing](https://drive.google.com/file/d/1iV58kIbDe0LsI-tosZa5eeSxl3uShlwL/view?usp=sharing)
+
 ## Project Overview
 A comprehensive computer vision project for traffic monitoring using two complementary approaches:
 - Traffic Violation Detection
